@@ -13,7 +13,9 @@
 #### Session objective
 
 1. Sentence writing practice.
+[句子翻译](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S10_Reading.pdf)
 2. Read and Share:
+[Reading](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S10's%20Agenda.docx)
    1. Each individual will be assigned to a reading in the session and you will have 10 minutes to read the passage. 
    2. You should take notes while you are reading, because you will be asked to close the reading after the 10 minutes.
    3. After reading, you are expected to share the information you have gathered in details and in an organized manner.
