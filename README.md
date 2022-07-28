@@ -34,13 +34,12 @@
 
 2. Watch your assigned videos and complete these practices:
 
-   • Summarize the video content and prepare to share in the next session. You can either write  it down or take some notes, whichever way is easier for you to organize your thoughts and be comprehensive and exhaustive with your sharing.
-
-   • Discuss your opinion regarding this video. Do you like or dislike it? Do you agree or disagree?
-
-   • (Optional) Type out the transcripts to practice your listening skills. You can choose 1 or 2 minutes to transcribe.
+   1. Summarize the video content and prepare to share in the next session. You can either write  it down or take some notes, whichever way is easier for you to organize your thoughts and be comprehensive and exhaustive with your sharing.
+   2. Discuss your opinion regarding this video. Do you like or dislike it? Do you agree or disagree?
+   3. (Optional) Type out the transcripts to practice your listening skills. You can choose 1 or 2 minutes to transcribe.
 
    TED Talk: <https://youtu.be/MgM8MGEikDY>
+
 
 #### Session objective
 
@@ -63,19 +62,15 @@
    2. B. Change some of the grammars and the verb tenses to present tenses (i.e. have/has) accordingly.
    3. C. Proofread-pay attention to tense verbs, suffixes/prefixes, possesive s’s, and etc..
 
-   Prompt List:
 
-   1. It is natural process of animal species to become extinct (e.g. dinosaurs, dodos, etc.). There is no reason why people should stop this from happening. Do you agree or disagree?
-   
-   2. Some people say that economic growth is the only way to end world poverty and hunger. Others say that economic growth is causing damage to the environment ,and should be stopped now. Discuss both views and give your opinion.
-   
-   3. Human activity have negative effect on plant animal species.some people think it is too late to do anything.some people believe that effective act be taken to improve this solution. Discuss both views and your opinion.
+* Prompt List:
+  1. It is natural process of animal species to become extinct (e.g. dinosaurs, dodos, etc.). There is no reason why people should stop this from happening. Do you agree or disagree?
+  2. Some people say that economic growth is the only way to end world poverty and hunger. Others say that economic growth is causing damage to the environment ,and should be stopped now. Discuss both views and give your opinion.
+  3. Human activity have negative effect on plant animal species.some people think it is too late to do anything.some people believe that effective act be taken to improve this solution. Discuss both views and your opinion.
+  4. Some people say individuals can do nothing to improve the environment, only governments and large companies can make a difference. Do you agree or disagree?
+  5. As countries develop, more and more people buy and use their own cars. Do you think the advantages of this trend for individuals outweigh the disadvantages for the environment?
 
-   4. Some people say individuals can do nothing to improve the environment, only governments and large companies can make a difference. Do you agree or disagree?
-   
-   5. As countries develop, more and more people buy and use their own cars. Do you think the advantages of this trend for individuals outweigh the disadvantages for the environment?
-   
-      ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
 
 #### Session objective
 
@@ -92,21 +87,17 @@
 
 #### Home Practice
 
-1. This week we are focusing on science topics. Choose a prompt from below and write a paper within 40 minutes. *This week we are focusing on exposing your strengths and weaknesses when there is a time limit, so PLEASE FINISH WITHIN 40 MINUTES and submit your paper AS IS! **Preparation for the next session:1. Watch the video https://youtu.be/Q7yvvq-9ytE, this video is 35 minutes long and feel free to turn on the closed captions.
+1. This week we are focusing on science topics. Choose a prompt from below and write a paper within 40 minutes. *This week we are focusing on exposing your strengths and weaknesses when there is a time limit, so PLEASE FINISH WITHIN 40 MINUTES and submit your paper AS IS! **Preparation for the next session:1. Watch the video <https://youtu.be/Q7yvvq-9ytE>, this video is 35 minutes long and feel free to turn on the closed captions.
 
-   Prompt List:
 
-   1. It is natural process of animal species to become extinct (e.g. dinosaurs, dodos, etc.). There is no reason why people should stop this from happening. Do you agree or disagree?
+* Prompt List:
+  1. It is natural process of animal species to become extinct (e.g. dinosaurs, dodos, etc.). There is no reason why people should stop this from happening. Do you agree or disagree?
+  2. Some people say that economic growth is the only way to end world poverty and hunger. Others say that economic growth is causing damage to the environment ,and should be stopped now. Discuss both views and give your opinion.
+  3. Human activity have negative effect on plant animal species.some people think it is too late to do anything.some people believe that effective act be taken to improve this solution. Discuss both views and your opinion.
+  4. Some people say individuals can do nothing to improve the environment, only governments and large companies can make a difference. Do you agree or disagree?
+  5. As countries develop, more and more people buy and use their own cars. Do you think the advantages of this trend for individuals outweigh the disadvantages for the environment?
 
-   2. Some people say that economic growth is the only way to end world poverty and hunger. Others say that economic growth is causing damage to the environment ,and should be stopped now. Discuss both views and give your opinion.
-
-   3. Human activity have negative effect on plant animal species.some people think it is too late to do anything.some people believe that effective act be taken to improve this solution. Discuss both views and your opinion.
-
-   4. Some people say individuals can do nothing to improve the environment, only governments and large companies can make a difference. Do you agree or disagree?
-
-   5. As countries develop, more and more people buy and use their own cars. Do you think the advantages of this trend for individuals outweigh the disadvantages for the environment?
-
-      ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
 
 #### Session objective
 
@@ -126,19 +117,19 @@
 1. Choose a writing prompt from the list below and complete a paper prior to the next session.
 2. A task 2 writing is 40 minutes and at least 250 words. Feel free to let me know if you have any questions!
 
-Prompt list:
+* Prompt list:
+  1. Some people think governments should spend money on saving languages with fewer speakers from dying out completely. Others think this is a waste of financial resources. Discuss both views and give your own opinions. To what extent do you agree or disagree?
 
-1. Some people think governments should spend money on saving languages with fewer speakers from dying out completely. Others think this is a waste of financial resources. Discuss both views and give your own opinions. To what extent do you agree or disagree?
+  2. The government should control the amount of violence in films and on television in order to decrease the level of violent crimes in the society. To what extent do you agree or disagree?
 
-2. The government should control the amount of violence in films and on television in order to decrease the level of violent crimes in the society. To what extent do you agree or disagree?
+  3. (Claimed) In many countries today people are living in a "throw-away" society where things are used in a short time and then thrown away. What are the causes? What problems might it cause? 
 
-3. (Claimed) In many countries today people are living in a "throw-away" society where things are used in a short time and then thrown away. What are the causes? What problems might it cause? 
+  4. The spending on the development of technology of space exploration is not justifiable. They believe there are many beneficial ways to spend these money. To what extent do you agree or disagree?
 
-4. The spending on the development of technology of space exploration is not justifiable. They believe there are many beneficial ways to spend these money. To what extent do you agree or disagree?
+  5. (Claimed) The restoration of old buildings in major cities in the world spends numerous government expenditures. This money should be used in new housing and road development. To what extent do you agree or disagree?
 
-5.  (Claimed) The restoration of old buildings in major cities in the world spends numerous government expenditures. This money should be used in new housing and road development. To what extent do you agree or disagree?
 
-   ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
 
 #### Session objective
 
@@ -158,17 +149,17 @@ Prompt list:
 1. Complete the writing task we discussed last session and submit before next session. For people who have not complete their assignment from last week, finish this week's paper on abortion first!
 2. The prompt is from a real test and it is attached below. Remember, a task 2 writing is 40 minutes and at least 250 words. A task 2 overview and an example will be attached below. Feel free to let me know if you have any questions!
 
-Your prompt to complete: 
+* Your prompt to complete: 
 
-Recently, abortion has increased rapidly and become a controversial topic. Some people suppose that abortion should be legal while others are against it. Discuss both views and give your own opinion.
+  Recently, abortion has increased rapidly and become a controversial topic. Some people suppose that abortion should be legal while others are against it. Discuss both views and give your own opinion.
 
-==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
+  ==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
 
-==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
+  ==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
 
-==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+  ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
 
-==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
 
 #### Session objective
 
@@ -188,17 +179,17 @@ Recently, abortion has increased rapidly and become a controversial topic. Some 
 1. Complete the writing task we discussed last Wednesday and submit before next session.
 2. The prompt is from a real test and it is attached below. Remember, a task 2 writing is 40 minutes and at least 250 words. A task 2 overview and an example will be attached below. Feel free to let me know if you have any questions!
 
-Your prompt to complete: 
+* Your prompt to complete: 
 
-Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects, like philosophy and history, and only offer practical degree courses that maximize chances of employment. To what extent do you agree or disagree?
+  Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects, like philosophy and history, and only offer practical degree courses that maximize chances of employment. To what extent do you agree or disagree?
 
-==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
+  ==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
 
-==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
+  ==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
 
-==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+  ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
 
-==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
 
 #### Session objective
 
@@ -218,15 +209,15 @@ Rising university fees and scarce employment prospects for graduates have led so
 1. Complete a writing task 2 and send it to me before this Wednesday. If you need more time to complete this essay, please let me know. 
 2. The prompt is from a real test and it is attached below. Remember, a task 2 writing is 40 minutes and at least 250 words. A task 2 overview and an example will be attached below. Feel free to let me know if you have any questions!
 
-Your prompt to complete:
+* Your prompt to complete:
 
-==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
+  ==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
 
-==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
+  ==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
 
-==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+  ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
 
-==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
 
 #### Session objective
 
@@ -246,11 +237,13 @@ Complete partial speaking practice and go over example writings together.
 2. For the second session, you can choose to have the prompts send to you prior or on the spot. DM me if you’d like to receive your prompts beforehand and prepare for it, otherwise, I will give you the prompts during the interview.
 3. Complete a writing task and send it to me before Wednesday. The prompt is from a real test and it is attached below. Remember, a task 1 writing is 20 minutes and at least 150 words. A task 1 overview and a band 9 example are also attached below. Feel free to let me know if you have any questions!
 
-Your prompt to complete:
+* Your prompt to complete:
 
-Task 1 Overview:
+  ![](E:\Program Files (x86)\Downloads\微信图片_20220728152445.jpg)
 
-==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  ==Task 1 Overview:==![](E:\Program Files (x86)\Downloads\微信图片_20220728152439.jpg)
+
+  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
 
 #### Session objective
 
