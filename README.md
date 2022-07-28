@@ -210,12 +210,14 @@ Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
 
 * Your prompt to complete:
 
+  ![](E:\Program Files (x86)\Downloads\writing2_s3.jpg)
+
   Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>
 
   Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>
 
   Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
-
+  
   Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>
 
 #### Session objective
@@ -232,21 +234,22 @@ Complete partial speaking practice and go over example writings together.
 
 #### Home Practice
 
-1. Now that you are familiarized with an entire speaking test, we will get as much practice as possible to get ready for the actual test!
-2. For the second session, you can choose to have the prompts send to you prior or on the spot. DM me if you’d like to receive your prompts beforehand and prepare for it, otherwise, I will give you the prompts during the interview.
-3. Complete a writing task and send it to me before Wednesday. The prompt is from a real test and it is attached below. Remember, a task 1 writing is 20 minutes and at least 150 words. A task 1 overview and a band 9 example are also attached below. Feel free to let me know if you have any questions!
+1. Complete a writing task and send it to me before Wednesday. The prompt is from a real test and it is attached below. Remember, a task 1 writing is 20 minutes and at least 150 words. A task 1 overview and a band 9 example are also attached below. Feel free to let me know if you have any questions!
 
 * Your prompt to complete: 
 
-  ![image](https://github.com/HarperYang007/IELTS-Corner/blob/main/img/writing_2.jpg)
+  ![](E:\Program Files (x86)\Downloads\writing1_s2.jpg)
 
-  Task 1 Overview: ![image](https://github.com/HarperYang007/IELTS-Corner/blob/main/img/skill.jpg)
+  Task 1 Overview: ![](E:\Program Files (x86)\Downloads\skill.jpg)
 
   Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>
 
 #### Session objective
 
 Complete another round of speaking practice and go over the first writing task.
+
+1. Now that you are familiarized with an entire speaking test, we will get as much practice as possible to get ready for the actual test!
+2. For the second session, you can choose to have the prompts send to you prior or on the spot. DM me if you’d like to receive your prompts beforehand and prepare for it, otherwise, I will give you the prompts during the interview.
 
 ---
 
@@ -256,16 +259,14 @@ Complete another round of speaking practice and go over the first writing task.
 
 *25 May, 2022, Wed, 8:30pm*
 
-#### Home Practice
+#### Session objective
+
+Learn about our English baselines and set up personal goals.
 
 1. Read the overview for IELTS speaking, the content is attached below.
 2. Today, everyone will be assigned to 3 speaking tasks (part 1, 2, and 3) to prepare for tomorrow’s session. For tomorrow, we will simulate a speaking test, and everyone will take turns to go through 3 tasks. You can practice all you want before tomorrow 8:30pm, but you CANNOT READ OFF OF A SCRIPT ‼️
 3. Each speaking task was drawn from the real question pool. I will send them to everybody individually.
 4. When you prepare, please be aware of the time limits for each speaking task, which is layed out in the overview.
-
-#### Session objective
-
-Learn about our English baselines and set up personal goals.
 
 ---
 
