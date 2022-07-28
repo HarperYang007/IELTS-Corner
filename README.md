@@ -9,7 +9,8 @@
 
 1. Proofread and edit your papers from the previous two weeks, send final drafts to me before the next session.
 2. Finish the assigned readings.
-   [Click 官方范文](https://github.com/HarperYang007/IELTS-Corner/blob/main/Updated%20Materials/Reading072222.pdf) 
+   [Click 官方范文](https://github.com/HarperYang007/IELTS-Corner/blob/main/Updated%20Materials/Reading072222.pdf)
+   
    [Click Education related samples](https://github.com/HarperYang007/IELTS-Corner/blob/main/Updated%20Materials/Education related samples.pdf) 
 
 #### Session objective
