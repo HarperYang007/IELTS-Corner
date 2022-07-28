@@ -238,9 +238,9 @@ Complete partial speaking practice and go over example writings together.
 
 * Your prompt to complete: 
 
-  !(image)(https://github.com/HarperYang007/IELTS-Corner/blob/main/img/writing_2.jpg)
+  ![image](https://github.com/HarperYang007/IELTS-Corner/blob/main/img/writing_2.jpg)
 
-  Task 1 Overview: !(image)(https://github.com/HarperYang007/IELTS-Corner/blob/main/img/skill.jpg)
+  Task 1 Overview: ![image](https://github.com/HarperYang007/IELTS-Corner/blob/main/img/skill.jpg)
 
   Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>
 
