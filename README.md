@@ -70,7 +70,7 @@
   4. Some people say individuals can do nothing to improve the environment, only governments and large companies can make a difference. Do you agree or disagree?
   5. As countries develop, more and more people buy and use their own cars. Do you think the advantages of this trend for individuals outweigh the disadvantages for the environment?
 
-==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
 
 #### Session objective
 
@@ -97,7 +97,7 @@
   4. Some people say individuals can do nothing to improve the environment, only governments and large companies can make a difference. Do you agree or disagree?
   5. As countries develop, more and more people buy and use their own cars. Do you think the advantages of this trend for individuals outweigh the disadvantages for the environment?
 
-==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
 
 #### Session objective
 
@@ -128,8 +128,7 @@
 
   5. (Claimed) The restoration of old buildings in major cities in the world spends numerous government expenditures. This money should be used in new housing and road development. To what extent do you agree or disagree?
 
-
-==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
 
 #### Session objective
 
@@ -153,13 +152,13 @@
 
   Recently, abortion has increased rapidly and become a controversial topic. Some people suppose that abortion should be legal while others are against it. Discuss both views and give your own opinion.
 
-  ==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
+  Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>
 
-  ==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
+  Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>
 
-  ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+  Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
 
-  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>
 
 #### Session objective
 
@@ -183,13 +182,13 @@
 
   Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects, like philosophy and history, and only offer practical degree courses that maximize chances of employment. To what extent do you agree or disagree?
 
-  ==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
+  Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>
 
-  ==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
+  Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>
 
-  ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+  Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
 
-  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>
 
 #### Session objective
 
@@ -211,13 +210,13 @@
 
 * Your prompt to complete:
 
-  ==Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>==
+  Writing task 2 overview from the official website: <https://www.chinaielts.org/guide/sample_questions.shtml#>
 
-  ==Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>==
+  Writing task 2 suggestions: <https://ielts.kmf.com/beikao/detail/3/4https://ielts.kmf.com/beikao/detail/5/4>
 
-  ==Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>==
+  Writing task 2 templates: <https://ielts.kmf.com/beikao/detail/27/4>
 
-  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>
 
 #### Session objective
 
@@ -237,13 +236,13 @@ Complete partial speaking practice and go over example writings together.
 2. For the second session, you can choose to have the prompts send to you prior or on the spot. DM me if you’d like to receive your prompts beforehand and prepare for it, otherwise, I will give you the prompts during the interview.
 3. Complete a writing task and send it to me before Wednesday. The prompt is from a real test and it is attached below. Remember, a task 1 writing is 20 minutes and at least 150 words. A task 1 overview and a band 9 example are also attached below. Feel free to let me know if you have any questions!
 
-* Your prompt to complete:
+* Your prompt to complete: 
 
-  ![](E:\Program Files (x86)\Downloads\微信图片_20220728152445.jpg)
+  ![](E:\Program Files (x86)\Downloads\writing_2.jpg)
 
-  ==Task 1 Overview:==![](E:\Program Files (x86)\Downloads\微信图片_20220728152439.jpg)
+  Task 1 Overview: ![](E:\Program Files (x86)\Downloads\skill.jpg)
 
-  ==Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>==
+  Writing task 2 Band 9 example: <https://ielts.kmf.com/n/writing/article?seq=1&type=2&category_id=114&essay_id=13&show=0>
 
 #### Session objective
 
