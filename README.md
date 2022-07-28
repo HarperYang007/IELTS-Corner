@@ -2,8 +2,7 @@
 
 
 
-## Session 10 (latest)
-
+## Session 10
 *27 July, 2022, Wed, 8:30pm*
 
 #### Home Practice
