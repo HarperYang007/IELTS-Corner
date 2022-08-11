@@ -2,6 +2,24 @@
 
 
 
+## Session 11
+
+*10 Aug, 2022, Wed, 8:40pm*
+
+#### Home Practice
+
+1. Finish C17-Test 1
+2. Focus on the listening tests
+
+#### Session objective
+
+1. Listening.
+2. Reading.
+
+---
+
+
+
 ## Session 10
 *27 July, 2022, Wed, 8:30pm*
 
