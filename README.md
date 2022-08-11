@@ -8,7 +8,7 @@
 
 #### Home Practice
 
-1. Finish C17-Test 1
+1. Finish [C17-Test 1](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/Practice%20Test%201.pdf)
 2. Focus on the listening tests
 ![image](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11_Listening_skill.jpg)
 
