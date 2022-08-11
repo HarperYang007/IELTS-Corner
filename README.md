@@ -11,11 +11,19 @@
 1. Finish [C17-Test 1](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/Practice%20Test%201.pdf)
 2. Focus on the listening tests
 <img src="https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/listening_skill.jpg" width="300px">
+
 #### Session objective
 
 1. Listening.
-2. Reading.
-
+   [17-T1-listening](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/17-T1-listening%20transcript.pdf)
+   [17-T1-listening transcript](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/17-T1-listening%20transcript.pdf)
+   [C17-T1-P1](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/C17-T1-P1.mp3)
+   [C17-T1-P2](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/C17-T1-P2.mp3)
+   [C17-T1-P3](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/17-T1-listening%20transcript.pdf)
+   [C17-T1-P4](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/17-T1-listening%20transcript.pdf)
+3. Reading.
+   [17-T1-reading](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/17-T1-listening%20transcript.pdf)
+   
 ---
 
 
