@@ -11,7 +11,7 @@
 1. Finish [C17-Test 1](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/Practice%20Test%201.pdf)
 2. Focus on the listening tests
 ![image](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/listening_skill.jpg)
-<img src="[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/listening_skill.jpg)" width="100px">
+<img src="[https://github.com/HarperYang007/IELTS-Corner/blob/main/Course%20Contents/S11/listening_skill.jpg]" width="100px">
 #### Session objective
 
 1. Listening.
